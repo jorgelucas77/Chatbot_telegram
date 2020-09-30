@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "diojl-bot-gesl",
-  "private_key_id": "12dae4a9b9032d36ccfe3da7966ed04309508e0b",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7ujlc+ByNPOC9\npsmsw+O2Fz0HrguIuQFMN0EpwvN07tw7eoIszxjMDx0MvicKiTgwU9Bz+2HkIQky\nwQTlqDv5taiRlc3Ot69BlHimaCOTX6eHmPs3sMBpjcZnmv4HuiZmtgu5VPF5phkT\nk43+++lQ2GGjNs8+/lCNm5Izb3KeTOB0RZ9Vg6yygAVPoRbd5bIBa8iOw8Ulr8wZ\nKWk0hQw2To2f1PVlYHQAGRSbSaF6KEcBIrNxS2gzoWAO02vQcWCN+Ls0Ew04qY6L\nuRE1oQm7L95KoWOoIV2Z0dJgJs04dWgMDkuwtoG8DDetQtnrAuWuREHGyMUROyxJ\nYXlm9VOpAgMBAAECggEAQMVcDWu9zi13DXiClQ1xf948vG2cpSvP+tAFt7b/8RSJ\nACygxX0e/SkpyL/DEKuPq3z/q0TM3b1YQx695c9KAjpfUvvw6qYN3f6wMho0TCDw\n2KQ76VcezEySbCTaCSh9H2soWGWqe2KHvG1ozNV2BuLhrUK39vAgMvu+UejeDye3\nfRBCh2w6DzPo/leQD1ohXrDZ4ILxq7sbfs8dC2NVzVSQpTWnoG5ORCdXPPhjw2sY\nmY1o/JsdCTtIpNTWhp+0Ol31J9EWK+cJ3XFevnsxld1n6em5zw3SBmWgL2tFLwEl\n8qJxWuv1AAqB84ffMwW+8AvnnhECR6P/mSIdyMmhkQKBgQDtAqM1bYWrCq9ud2U+\nHmyLqdfqgfKekikm7RQbIn6UuVq5yr4vLj4xdBQsB6vJxbd2IrIS044Hhtxb5NSm\n6QghArfpwyJ9pg3Xm45XX5JMdIrHLrnrE0BGohVWxQNcLByiGVKtVtCbmtlMymPO\nQFMeSfZ6utN9ePRJIcDMz9NdrwKBgQDKxLyMU7IXQ2TlzCLd99RBo9vdfcANo4xc\nJmSaE6a4JgW8/QFBDUSZ66T0e7W+wS3K+XPnjldrxBaN95NQQQ0yBn8AM4HE/6R6\n4kXZlUbwKkMeAAjwtzXDAW5tJeZjwPcJMyuFBWFNpx0/l7i/jdQ2L4OJEtWe/SXK\nxz2CwkBSJwKBgQCnuvId4YBzZ4B3wO9ZYtaWkIBJaeV16yJMdgOAoIzMW9ClI6Is\naaGCBhAwiM0+YjpP1IYJZMZi9UIFlpAX/1rNYcseGAbUvSuWpnO5yd0TVnbQN3VD\ns8ANPK+1VH/oPx+UaC9mlMXVGWUnPyQa1tL74IQanxUE+xCGoOh9Cacf6QKBgCtD\nRLNwHBxojbuWDY5slUYYDw44CWUfkxAKRQa20KiTvD+xf7YAfbWVmJFtX76+euXG\nyZsLPM3KfcF2pGDIMGePCUPiuXptzQtHAf5FomgVrFJXUZEClh7wTD5PitOX1V2K\nJGvyVOt7j3sFBS8htLiG9LqnYRrWCl00m4QtrAmbAoGBAJkBQSOe0A0BefA0xtz9\nsisLfP6puu5/Bdh0YmrtPO8AVBtHnPR0iChKsTGYFElGEYsbVBhINqQ+iG16iIg0\nYNUqxcKVLhre+7yomt33pK52ZuOvLrukUl12wjNais5jaI4zE6MR6qQbeOUNv5S0\nO3Ja/Ouow4xyG4d7Q6KubZ8T\n-----END PRIVATE KEY-----\n",
-  "client_email": "dialogflow-ppwfnh@diojl-bot-gesl.iam.gserviceaccount.com",
-  "client_id": "102679296533015013430",
+  "private_key_id": "colocar private Key",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "0",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ppwfnh%40diojl-bot-gesl.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }
